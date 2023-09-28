@@ -1,0 +1,44 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "age": 17,
+            "gender": "male",
+            "house": "Gryffindor",
+            "photo_url": "../photos/Harry.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hermione Granger",
+            "age": 17,
+            "gender": "female",
+            "house": "Gryffindor",
+            "photo_url": "../photos/Hermione.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Ron Weasley",
+            "age": 17,
+            "gender": "male",
+            "house": "Gryffindor",
+            "photo_url": "../photos/Ron.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Draco Malfoy",
+            "age": 17,
+            "gender": "male",
+            "house": "Slytherin",
+            "photo_url": "../photos/Draco.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Severus Snape",
+            "age": 38,
+            "gender": "male",
+            "house": "Slytherin",
+            "photo_url": "../photos/Severus.jpg"
+        }
+    ]
+}

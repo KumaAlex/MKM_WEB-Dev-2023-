@@ -1,0 +1,100 @@
+.header {
+    background-color: #333;
+    color: whitesmoke;
+    padding: 10px 0 0 0;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.header__name {
+    font-size: 50px;
+}
+
+.header__nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.header__nav-item {
+    display: inline;
+    margin-right: 20px;
+    &:active {
+        transform: translateY(2px)
+    }
+}
+
+.header__backImg{
+    width: 100%;
+}
+
+.btn-decor {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 26px;
+    border: 1px solid black;
+    border-radius: 10px 20px 30px;
+    padding: 6px 12px;
+    background-color: rgb(63, 104, 105);
+    transition: background-color 0.7s ease;
+
+    &:hover {
+        background-color: rgb(1, 1, 1);
+    }
+}
+
+.aside{
+    position: fixed;
+    top: 14vh;
+    right: -20vw;
+    width: 20vw;
+    height: 80vh;
+    border-left: 20px solid rgb(94, 0, 195);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 40px 0 0 40px;
+    background-color: rgb(202, 202, 202);
+    transition: all 0.4s;
+
+    &:hover{
+        right: 0;
+    }
+}
+
+.footer{
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    background-color: #333;
+    color: whitesmoke;
+    padding: 100px 0 40px 0;
+}
+.footer__table{
+}
+.footer__table-row{
+}
+.footer__table-head{
+    padding: 20px 50px;
+}
+.footer__table-body{
+    padding: 20px 50px;
+}
+.text-center {
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h1{
+    margin: 0;
+}

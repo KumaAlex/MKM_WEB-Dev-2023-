@@ -1,0 +1,24 @@
+
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 40px 100px;
+    gap: 40px;
+    
+}
+.content__card{
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    background-color: rgb(109, 109, 109);
+}
+.content__info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

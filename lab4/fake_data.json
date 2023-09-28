@@ -1,0 +1,102 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Paris, France",
+      "description": "A romantic trip to the capital of France, known for its beautiful architecture, art, and culture.",
+      "rating": 4.7,
+      "image_url": "https://all.accor.com/magazine/imagerie/paris1-7ed9.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tokyo, Japan",
+      "description": "Explore the modern technological capital of Japan, enjoy Japanese cuisine, and culture.",
+      "rating": 4.5,
+      "image_url": "https://www.airpano.ru/files/vr-tokyo-02_big.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Machu Picchu, Peru",
+      "description": "Embark on a trek to the ancient Incan city of Machu Picchu and enjoy breathtaking views.",
+      "rating": 4.8,
+      "image_url": "https://cdnn21.img.ria.ru/images/realty/40456/42/404564271_0:134:3167:1915_1920x0_80_0_0_4ed1250ca56800ef66130ee321c65947.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Safari in Kenya",
+      "description": "Explore African wildlife in its natural habitat on a safari in Kenya.",
+      "rating": 4.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Xo9MBLiSKI506h5gKzpLwVTOHpYlpEklwi8yuUKYDdydfd49fIkUhln54TAzbNUy6Dk&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Santorini, Greece",
+      "description": "Enjoy a romantic getaway on the beautiful Greek island of Santorini, overlooking the Aegean Sea.",
+      "rating": 4.6,
+      "image_url": "https://euromapa.net/wp-content/uploads/2014/02/santorini-island-in-greece-1-ex.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mayan Riviera, Mexico",
+      "description": "Relax on the Caribbean coast, explore ancient Mayan ruins, and enjoy white sandy beaches.",
+      "rating": 4.7,
+      "image_url": "https://images2.bovpg.net/r/media/1/2/9/1/0/291052.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kyoto, Japan",
+      "description": "Immerse yourself in traditional Japanese culture by visiting sacred temples and gardens in Kyoto.",
+      "rating": 4.6,
+      "image_url": "https://cdn.tripzaza.com/ru/destinations/wp-content/uploads/2018/07/Kyoto-e1530582507807.jpg"
+    },
+    {
+      "id": 8,
+      "name": "New York, USA",
+      "description": "Experience one of the most culturally diverse cities in the world, New York City.",
+      "rating": 4.8,
+      "image_url": "https://standard.kz/storage/articles/BgmS3KL5kJz2aF4edNKjxvkfJluU1lAxdHQrNRH7.png"
+    }
+  ],
+  "travel_tips": [
+    {
+      "tip_number": 1,
+      "tip": "Pack light and smart. Only bring what you need and choose versatile clothing items."
+    },
+    {
+      "tip_number": 2,
+      "tip": "Make copies of important documents, such as your passport, and keep them in a separate place."
+    },
+    {
+      "tip_number": 3,
+      "tip": "Research your destination's culture and customs to show respect and avoid cultural misunderstandings."
+    },
+    {
+      "tip_number": 4,
+      "tip": "Stay hydrated and carry a reusable water bottle to reduce plastic waste."
+    },
+    {
+      "tip_number": 5,
+      "tip": "Use local transportation to experience the destination like a local and reduce your carbon footprint."
+    },
+    {
+      "tip_number": 6,
+      "tip": "Learn a few basic phrases in the local language to connect with locals and enhance your experience."
+    },
+    {
+      "tip_number": 7,
+      "tip": "Keep an open mind and be flexible with your plans. Sometimes the best experiences are unplanned."
+    },
+    {
+      "tip_number": 8,
+      "tip": "Take care of your health. Carry necessary medications and travel insurance for peace of mind."
+    },
+    {
+      "tip_number": 9,
+      "tip": "Protect your valuables. Use a money belt or secure bag to deter pickpockets."
+    },
+    {
+      "tip_number": 10,
+      "tip": "Respect the environment. Leave no trace and follow eco-friendly practices to preserve natural beauty."
+    }
+  ]
+}
