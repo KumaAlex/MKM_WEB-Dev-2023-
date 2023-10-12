@@ -1,0 +1,45 @@
+.cb2 {
+  display: grid;
+  grid-template-areas:
+    "topic topic topic"
+    "text1 text1 text2"
+    "text4 img text2"
+    "text4 text3 text3";
+  grid-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  padding-bottom: 100px;
+  margin-bottom: 50px;
+}
+.content__block-name2{
+    max-width: 400px;
+}
+.content__block-issue2 {
+  grid-area: topic;
+}
+
+.content__block-card2{
+    border: 2px solid gray;
+    padding: 4px;
+    border-radius: 18px;
+    background-color: azure;
+}
+.m2-text1 {
+  grid-area: text1;
+}
+.m2-text2 {
+  grid-area: text2;
+}
+.m2-text3 {
+  grid-area: text3;
+}
+.m2-text4 {
+  grid-area: text4;
+}
+.content__block-cover2 {
+  grid-area: img;
+  text-align: center;
+}
+.content__block-image2{
+    height: 300px;
+}

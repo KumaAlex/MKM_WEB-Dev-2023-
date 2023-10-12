@@ -1,0 +1,54 @@
+.cb3 {
+  display: grid;
+  grid-template-areas:
+    "topic topic topic"
+    "img1 text1 img2"
+    "text2 text3 text4";
+  grid-gap: 4px;
+  height: 100vh;
+  margin: 0;
+  justify-items: stretch;
+  padding-bottom: 200px;
+}
+
+.content__block-issue3 {
+  grid-area: topic;
+}
+
+.content__block-card3 {
+  border: 2px solid gray;
+  padding: 4px;
+  background-color: rgb(255, 193, 121);
+}
+.m3-text1 {
+  grid-area: text1;
+}
+.m3-text2 {
+  grid-area: text2;
+}
+.b-l-bor{
+    border-radius: 0 0 0 30px;
+}
+.b-r-bor{
+    border-radius: 0 0 30px 0;
+}
+.m3-text3 {
+  grid-area: text3;
+}
+.m3-text4 {
+  grid-area: text4;
+}
+.m3-img1 {
+  grid-area: img1;
+  border-radius: 30px 0 0 0;
+}
+.m3-img2 {
+  grid-area: img2;
+  border-radius: 0 30px 0 0;
+}
+.content__block-cover3 {
+  grid-area: img;
+  text-align: center;
+}
+.content__block-image3 {
+}

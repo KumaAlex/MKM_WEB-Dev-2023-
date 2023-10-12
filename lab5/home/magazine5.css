@@ -1,0 +1,19 @@
+
+.content__block-image5{
+    display: flex;
+    width: 100%;
+    border-radius: 100px 100px/300px;
+}
+.content__block-articles5{
+    display: flex;
+    gap: 10px;
+}
+.content__block-card5{
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 176, 176);
+}
+.content__block-author5{
+    color: gray;
+}

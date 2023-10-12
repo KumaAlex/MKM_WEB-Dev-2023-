@@ -1,0 +1,64 @@
+.cb4 {
+    display: grid;
+    grid-template-areas:
+      "topic . . ."
+      "img1 t1 t1 img2"
+      "t2 img img t3"
+      "t2 img img t3"
+      "img3 img3 img4 img4";
+    grid-gap: 10px;
+    height: 100vh;
+    margin: 0;
+    justify-items: center;
+    padding-bottom: 700px;
+    margin-left: -4vw;
+  }
+  
+  .content__block-issue4 {
+    grid-area: topic;
+  }
+  
+  .content__block-card4{
+      border: 2px solid gray;
+      padding: 4px;
+      border-radius: 40px 120px/80px;
+      padding: 40px;
+      background-color: rgb(184, 255, 255);
+  }
+  .t1{
+    grid-area: t1;
+  }
+  .t2{
+    grid-area: t2;
+  }
+  .t3{
+    grid-area: t3;
+  }
+  .img1{
+    grid-area: img1;
+    max-width: 300px;
+  }
+  .img2{
+    grid-area: img2;
+    max-width: 300px;
+    float: right;
+  }
+  .img3{
+    grid-area: img3;
+    max-width: 500px;
+  }
+  .img4{
+    grid-area: img4;
+    max-width: 500px;
+  }
+  .content__block-cover4 {
+    grid-area: img;
+    text-align: center;
+  }
+  .cen-img{
+    max-width: 500px;
+  }
+  .content__block-image4{
+    height: 400px;
+  }
+  

@@ -1,0 +1,55 @@
+.cb6 {
+  display: grid;
+  grid-template-areas:
+    "topic topic topic topic"
+    "img1 text1 img img"
+    "text2 img2 img img"
+    "img3 text3 img img";
+  grid-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  padding-bottom: 500px;
+  margin-bottom: 100px;
+}
+
+.content__block-issue6 {
+  grid-area: topic;
+}
+
+.content__block-card6 {
+  border: 2px solid gray;
+  padding: 4px;
+  border-radius: 18px 6px;
+  background-color: azure;
+  max-width: 300px;
+}
+.m6-img1 {
+  grid-area: img1;
+}
+.m6-img2 {
+  grid-area: img2;
+}
+.m6-img3 {
+  grid-area: img3;
+}
+.m6-text1 {
+  grid-area: text1;
+}
+.m6-text2 {
+  grid-area: text2;
+}
+.m6-text3 {
+  grid-area: text3;
+}
+.content__block-cover6 {
+  grid-area: img;
+  text-align: center;
+}
+.rig-img {
+  width: 600px;
+  height: 90%;
+}
+.content__block-image6 {
+  border-radius: 6px 18px;
+  width: 300px;
+}
